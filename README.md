@@ -4,15 +4,15 @@ This project analyzes Walmart's transaction-level sales data using advanced MySQ
 ## Objective
 To help Walmart optimize its sales strategy by answering 10 key business questions related to growth, profitability, customer segmentation, payment preferences, and sales patterns.
 
-## 📁 Dataset
+## Dataset
 - **Name:** Walmart Sales Dataset  
 - **Attributes:** Branch, City, Customer Type, Gender, Product Line, Unit Price, Quantity, Tax, Total, Date, Time, Payment Method, Rating
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 - **Database:** MySQL  
 - **Techniques:** CTEs, Window Functions, Subqueries, Joins, Aggregations
 
-## ✅ Key Business Tasks
+## Key Business Tasks
 1. Identify top-performing branch by monthly sales growth
 2. Find most profitable product line per branch
 3. Segment customers by spending tiers (High, Medium, Low)
